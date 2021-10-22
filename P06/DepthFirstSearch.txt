@@ -1,0 +1,7 @@
+1)
+DFS: A,B,E,F,D,C,G
+BFS: A,B,C,D,E,F,G
+
+2)
+DFS: A,B,E,D,F,C,I,H,G,J
+BFS: A,B,C,D,E,F,H,G,I,J
